@@ -1,2 +1,2 @@
 # Hello-World
-Iniciante, repositório criado para fins de  estudo. 
+Sou Iniciante, repositório criado para fins de  estudo. 
